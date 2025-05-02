@@ -55,7 +55,7 @@ const About = () => {
             <div className="flex items-center space-x-2">
               <BiCheck className="text-orange-500 size-7" />
               <p className="text-gray-800 dark:text-gray-300 font-semibold text-sm md:text-base">
-                A transformative guide that's changed countless lives.
+                A transformative guide that&apos;s changed countless lives.
               </p>
             </div>
             {/* 4th item */}
